@@ -53,7 +53,7 @@ https://localhost/smileshopperu
   <img src = "img_instalacion/Visita_tu_tienda.PNG" />
 </h1>
 
-- Y tambien una pagina para administrar el contenido, pero antes debemos eliminar la carpeta /intall dentro de la carpeta /smileshopperu y luego ingresar con nuestros datos de accesos ingresados anteriormente.
+- Y tambien una pagina para administrar el contenido, pero antes debemos eliminar la carpeta /inStall dentro de la carpeta /smileshopperu y luego ingresar con nuestros datos de accesos ingresados anteriormente.
 <h1 align = "center">
   <img src = "img_instalacion/Administra_tu_tienda.PNG" />
 </h1>
