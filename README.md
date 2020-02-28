@@ -5,7 +5,7 @@ Es una tienda virtual de comercio electrónico de ropa y accesorios de moda.
 ## Tecnologia:
 - [Prestashop](https://www.prestashop.com/es) : CMS graturito de codigo abierto, pensado para construir desde cero una tienda en linea de comercio electronico.
 
-## Instalacion:
+## Instalación:
 - Descargar el proyecto del reposirotio usando el comando:
 ```
 git clone https://github.com/gianco409/smileshopperu.git
@@ -15,7 +15,7 @@ git clone https://github.com/gianco409/smileshopperu.git
 ```
 https://localhost/smileshopperu
 ```
-- Esperar un momento y aparecera una pagina para iniciar la instalación y configuración
+- Esperar un momento y aparecera una página para iniciar la instalación y configuración
 
 - Seleccionamos el idioma.
 <h1 align = "center">
@@ -50,9 +50,10 @@ https://localhost/smileshopperu
 
 - Ahora podemos ver nuestra tienda.
 <h1 align = "center">
-  <img src = "img_instalacion/Visita_tu_pagina.PNG" />
+  <img src = "img_instalacion/Visita_tu_tienda.PNG" />
 </h1>
+
 - Y tambien una pagina para administrar el contenido, pero antes debemos eliminar la carpeta /intall dentro de la carpeta /smileshopperu y luego ingresar con nuestros datos de accesos ingresados anteriormente.
 <h1 align = "center">
-  <img src = "img_instalacion/Administra_tu_pagina.PNG" />
+  <img src = "img_instalacion/Administra_tu_tienda.PNG" />
 </h1>
